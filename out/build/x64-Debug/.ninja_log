@@ -1,19 +1,8 @@
 # ninja log v5
-4	934	7673518221724501	CMakeFiles/softRenderer.dir/main.cpp.obj	31a2919d36beaf03
-807	1127	7672746204661885	softRenderer.exe	745b8af9e46136c7
-20	606	7672729188973888	funcs/CMakeFiles/funcs.dir/func.cpp.obj	636e744134d20273
-5	764	7672739144179351	CMakeFiles/softRenderer.dir/main2.cpp.obj	46e502a1e7a43f8a
-4	301	7672721132278596	CMakeFiles/softRenderer.dir/func.cpp.obj	3ee1951ed74a645e
-607	808	7672729191306485	funcs/funcs.lib	dde97054a5497ecd
-660	1111	7672739799753006	main2.exe	4909e0b5b1d2dd30
-4	659	7672739795409898	CMakeFiles/main2.dir/main2.cpp.obj	42953496db79b3d6
-32	715	7673520736239883	gpu/CMakeFiles/gpuLib.dir/frameBuffer.cpp.obj	e9a51a19aa695084
-4	206	7673520853699000	build.ninja	d27ed2d2e66b9348
-5	1024	7673521914209930	CMakeFiles/softRenderer.dir/main.cpp.obj	31a2919d36beaf03
-19	1026	7673521914219928	application/CMakeFiles/applicationLib.dir/application.cpp.obj	7423e23cebdcadc
-33	1039	7673521914219928	gpu/CMakeFiles/gpuLib.dir/gpu.cpp.obj	4d6dc9114d608f66
-1026	1116	7673521915175024	application/applicationLib.lib	a3a93704d9f8e5f7
-1039	1130	7673521915314961	gpu/gpuLib.lib	8e666afb2b47da44
-1130	1422	7673521917660526	softRenderer.exe	61261af8a19d1ad8
-5	1067	7673532637660809	CMakeFiles/softRenderer.dir/main.cpp.obj	31a2919d36beaf03
-1067	1302	7673532639591233	softRenderer.exe	61261af8a19d1ad8
+47	531	7673761929968937	gpu/CMakeFiles/gpuLib.dir/frameBuffer.cpp.obj	503444cd5bb39cf2
+13	884	7673761933474486	CMakeFiles/softRenderer.dir/main.cpp.obj	8ac76c300b9f3315
+28	885	7673761933484485	application/CMakeFiles/applicationLib.dir/application.cpp.obj	caf9be79fff8ca65
+65	898	7673761933564506	gpu/CMakeFiles/gpuLib.dir/gpu.cpp.obj	f2648cab21e1211c
+885	965	7673761934314684	application/applicationLib.lib	a3a93704d9f8e5f7
+899	983	7673761934489075	gpu/gpuLib.lib	8e666afb2b47da44
+983	1475	7673761939216504	softRenderer.exe	61261af8a19d1ad8
